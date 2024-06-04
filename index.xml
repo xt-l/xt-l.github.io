@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xintong Li</title>
+    <link>https://xt-l.github.io/</link>
+    <description>Recent content on Xintong Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://xt-l.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research &amp; Publication</title>
+      <link>https://xt-l.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/research/</guid>
+      <description>Green Innovation Under Pressure Job Market Paper | Joint with Anindo Sarkar
+Sustainable Investing in General Equilibrium Joint with Giacomo Rondina
+Abstract: We investigate the conditions under which sustainable investing—wherein financial investors like (resp. dislike) holding assets that they believe have a positive (resp. negative) environmental/societal impact—alters the allocation of capital between clean and dirty firms in a dynamic general equilibrium framework. We show that investors with preferences for sustainable investing can generate both a composition and a scale impact on output.</description>
+    </item>
+    
+    <item>
+      <title>TEACHING</title>
+      <link>https://xt-l.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/teaching/</guid>
+      <description>As Instructor Introduction to Social Data Analytics (Econ 5/Poli 5D @UCSD, undergrad)
+→ For prospective students: Fall 2023 syllabus
+→ For current students: Fall 2023 Canvas
+As Teaching Assistant Macroeconomic Theory (Econ 210B @UCSD, Ph.D core)
+☑︎ Evaluation: Winter 2023
+Macroeconomic Data Analysis (Econ 112 @UCSD, undergrad)
+☑︎ Evaluation: Fall 2019 (a) Fall 2019 (b) Winter 2021 Winter 2022 Spring 2023
+Long Run Macroeconomics (Econ 110A @UCSD, undergrad)
+☑︎ Evaluation: Spring 2021 Spring 2022</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://xt-l.github.io/vita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/vita/</guid>
+      <description> ⇢ link to download Xintong(心同)&#39;s CV here </description>
+    </item>
+    
+  </channel>
+</rss>
