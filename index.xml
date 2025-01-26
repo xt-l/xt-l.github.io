@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xintong Li</title>
+    <link>https://xt-l.github.io/</link>
+    <description>Recent content on Xintong Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://xt-l.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research &amp; Publication</title>
+      <link>https://xt-l.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/research/</guid>
+      <description>Green Innovation Under Pressure Job Market Paper | Joint with Anindo Sarkar
+Abstract: As the impacts of climate change intensify, firms must overcome the technical challenges of emission reduction while coping with damage from frequent disasters. This paper provides novel evidence on how firms adjust the pace and direction of their innovation in response to costly physical disasters. Leveraging granular data on the joint spatial distribution of climate hazards and economic activity across the U.</description>
+    </item>
+    
+    <item>
+      <title>TEACHING</title>
+      <link>https://xt-l.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/teaching/</guid>
+      <description>As Instructor Introduction to Social Data Analytics (Econ 5/Poli 5D @UCSD, undergrad)
+→ For prospective students: Fall 2023 syllabus
+→ For current students: Fall 2023 Canvas
+As Teaching Assistant Macroeconomic Theory (Econ 210B @UCSD, Ph.D core)
+☑︎ Winter 2023 Macroeconomic Data Analysis (Econ 112 @UCSD, undergrad)
+☑︎ Fall 2019 ☑︎ Winter 2021 ☑︎ Winter 2022 ☑︎ Spring 2023 Long Run Macroeconomics (Econ 110A @UCSD, undergrad)
+☑︎ Spring 2021 ☑︎ Spring 2022 Short Run Macroeconomics (Econ 110B @UCSD, undergrad)</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://xt-l.github.io/vita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/vita/</guid>
+      <description> ⇢ link to download Xintong(心同)&#39;s CV here </description>
+    </item>
+    
+  </channel>
+</rss>
