@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xintong Li</title>
+    <link>https://xt-l.github.io/</link>
+    <description>Recent content on Xintong Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://xt-l.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research &amp; Publication</title>
+      <link>https://xt-l.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/research/</guid>
+      <description>Green Innovation Under Pressure joint with Anindo Sarkar | working paper
+Keywords: acute physical risks, corporate innovation, directed technical change, climate mitigation &amp;amp; adaptation
+Links: draft
+Sustainable Investing in General Equilibrium joint with Giacomo Rondina | working paper
+Keywords: sustainable investing, non-pecuniary preferences, portfolio allocation, scale &amp;amp; composition impacts, dynamic general equilibrium
+Links: draft slides
+Tracing the Impact of Sustainable Investing joint with Hanyi Wang | working paper
+Keywords: ESG, investor pressure, institutional ownership, external financing, cost of capital, real investment</description>
+    </item>
+    
+    <item>
+      <title>TEACHING</title>
+      <link>https://xt-l.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/teaching/</guid>
+      <description>As Instructor Introduction to Social Data Analytics (Econ 5/Poli 5D @UCSD, undergrad)
+→ For prospective students: Fall 2023 syllabus
+→ For current students: Fall 2023 Canvas
+As Teaching Assistant Macroeconomic Theory (Econ 210B @UCSD, Ph.D core)
+☑︎ Winter 2023 Macroeconomic Data Analysis (Econ 112 @UCSD, undergrad)
+☑︎ Fall 2019 ☑︎ Winter 2021 ☑︎ Winter 2022 ☑︎ Spring 2023 Long Run Macroeconomics (Econ 110A @UCSD, undergrad)
+☑︎ Spring 2021 ☑︎ Spring 2022 Short Run Macroeconomics (Econ 110B @UCSD, undergrad)</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://xt-l.github.io/vita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xt-l.github.io/vita/</guid>
+      <description> ⇢ link to download Xintong(心同)&#39;s CV here </description>
+    </item>
+    
+  </channel>
+</rss>
